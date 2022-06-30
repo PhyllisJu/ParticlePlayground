@@ -2,4 +2,4 @@
 
 Come and play with the particles!
 
-Try this: https://phyllisju.github.io/ParticlePlayground/
+Try this (better experience on laptops): https://phyllisju.github.io/ParticlePlayground/
